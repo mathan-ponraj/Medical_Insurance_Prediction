@@ -8,9 +8,9 @@ This project aims to predict medical insurance costs based on a variety of facto
 - **Data Preprocessing:** Handling missing values, encoding categorical features, and scaling numerical data.
 - **Feature Engineering:** Identification of significant features to improve model accuracy.
 - **Model Building:** Implementation of regression models for accurate prediction of insurance charges.
-- **Evaluation:** Comprehensive model evaluation using metrics such as MAE, MSE, RMSE, and R².
+- **Evaluation:** Comprehensive model evaluation using accuracy score.
 
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 - **Programming Language:** Python
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Jupyter Notebook** for interactive analysis and visualization
