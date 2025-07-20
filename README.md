@@ -1,9 +1,9 @@
 # Medical Insurance Cost Prediction
 
-## 📜 Project Overview
+## Project Overview
 This project aims to predict medical insurance costs based on a variety of factors such as age, BMI, smoking habits, and other demographic information. By leveraging machine learning algorithms, the project provides insights into how these factors influence insurance charges, helping insurers and individuals better understand potential costs.
 
-## 🚀 Features
+## Features
 - **Exploratory Data Analysis (EDA):** In-depth visualization and analysis of the dataset to uncover trends and relationships.
 - **Data Preprocessing:** Handling missing values, encoding categorical features, and scaling numerical data.
 - **Feature Engineering:** Identification of significant features to improve model accuracy.
@@ -24,7 +24,7 @@ This project aims to predict medical insurance costs based on a variety of facto
 ├── 📄 requirements.txt # Required Python libraries
 ```
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Medical_Insurance_Prediction.git
@@ -43,7 +43,7 @@ This project aims to predict medical insurance costs based on a variety of facto
    ```
 5. Run the cells in the notebook to execute the analysis and prediction.
 
-## 📊 Dataset
+## Dataset
 The dataset contains the following features:
 - **Age:** Age of the individual
 - **Sex:** Gender (male/female)
@@ -55,10 +55,10 @@ The dataset contains the following features:
 
 Ensure you have access to the dataset in the `data` folder.
 
-## 🧪 Results
+## Results
 - **Best Performing Model:** [Linear_Regression_Model with Accuracy_score]
 
-## 🤝 Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute:
 1. Fork the repository.
 2. Create a feature branch:
@@ -75,14 +75,11 @@ Contributions are welcome! If you'd like to contribute:
    ```
 5. Open a pull request.
 
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
-
-## 🌟 Acknowledgements
+## Acknowledgements
 - [Dataset Source](#): [Kaggle](www.kaggle.com)
 - Inspiration from data science and machine learning communities.
 
-## 📨 Contact
+## Contact
 For any questions, feel free to reach out:
 - **Email:** mathanponraj03@gmail.com.com
 - **Linkedin:** [Mathan03](https://Linkedin.com/Mathan03)
