@@ -1,21 +1,49 @@
 # Medical Insurance Cost Prediction
 
+This project aims to predict medical insurance charges based on factors such as age, BMI, smoking habits, and other demographics. By applying regression models, it provides insights into how these features influence insurance costs, aiding insurers and individuals in understanding premium structures.
+
+---
+
 ## Project Overview
-This project aims to predict medical insurance costs based on a variety of factors such as age, BMI, smoking habits, and other demographic information. By leveraging machine learning algorithms, the project provides insights into how these factors influence insurance charges, helping insurers and individuals better understand potential costs.
+
+The objective is to develop a predictive model that estimates insurance charges using customer data. The workflow includes exploratory data analysis (EDA), data preprocessing, feature engineering, and regression modelling to achieve accurate cost predictions.
+
+---
 
 ## Features
-- **Exploratory Data Analysis (EDA):** In-depth visualization and analysis of the dataset to uncover trends and relationships.
-- **Data Preprocessing:** Handling missing values, encoding categorical features, and scaling numerical data.
-- **Feature Engineering:** Identification of significant features to improve model accuracy.
-- **Model Building:** Implementation of regression models for accurate prediction of insurance charges.
-- **Evaluation:** Comprehensive model evaluation using accuracy score.
 
-## Tools and Technologies
-- **Programming Language:** Python
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Jupyter Notebook** for interactive analysis and visualization
+- **Exploratory Data Analysis (EDA)**  
+  Analysed dataset trends and relationships through detailed visualisations.
 
-## 📂 Project Structure
+- **Data Preprocessing**  
+  Handled missing values, encoded categorical variables, and scaled numerical features to prepare data for modelling.
+
+- **Feature Engineering**  
+  Identified key predictors influencing insurance charges to improve model accuracy.
+
+- **Model Building**  
+  Implemented regression models, including Linear Regression, to predict medical insurance costs.
+
+- **Model Evaluation**  
+  Assessed model performance using accuracy metrics and visual error analysis.
+
+---
+
+## Technologies Used
+
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+- Jupyter Notebook
+
+---
+
+## Project Structure
+
+
 ```
 📁 Medical_Insurance_Prediction
 ├── 📄 README.md       # Project documentation
